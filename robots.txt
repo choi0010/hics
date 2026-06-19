@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.wchoi.net/hics/sitemap.xml
+Sitemap: https://choi0010.github.io/hics/sitemap.xml
