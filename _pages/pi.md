@@ -11,7 +11,7 @@ Associate Professor
 Department of Electrical and Computer Engineering  
 Seoul National University, Seoul 08826, Korea  
 
-[Google Scholar](https://scholar.google.com/citations?user=VyOgbEEAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/wooyeol-choi-44217229/) · [CV](https://drive.google.com/open?id=1xf05WAlml6lJIO0bXTOXjh7xXnTNPl5F) · wchoi@snu.ac.kr
+[Google Scholar](https://scholar.google.com/citations?user=VyOgbEEAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/wooyeol-choi-44217229/) · [CV](https://drive.google.com/open?id=1xf05WAlml6lJIO0bXTOXjh7xXnTNPl5F) · choi0010@snu.ac.kr
 
 ---
 
